@@ -16,6 +16,7 @@
 </v>
 <v t="leo.20161219140306.1" a="E"><vh>@path content</vh>
 <v t="leo.20161219135726.2"><vh>@edit 20161219.md</vh></v>
+<v t="leo.20161226135027.1"><vh>@edit 20161226.md</vh></v>
 </v>
 <v t="leo.20161219143123.1"><vh>@edit local_publishconf.py</vh></v>
 <v t="leo.20161219143200.1"><vh>@edit pelicanconf.py</vh></v>
@@ -138,7 +139,7 @@ g.es("admin pelican 近端執行完畢")
 &lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;    
-2016 Fall 計算機程式課程
+2016 Fall cpb 計算機程式課程
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;

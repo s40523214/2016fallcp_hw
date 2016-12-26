@@ -29,4 +29,4 @@ document['ch01'].bind('click',get_input)
 &lt;/script&gt;
 
 &lt;p&gt;&lt;button id="ch01"&gt;取輸入後, 列印出來&lt;/button&gt;
-&lt;/script&gt;&lt;/p&gt;</summary><category term="cp"></category></entry></feed>
+&lt;/script&gt;&lt;/p&gt;</summary><category term="cpb"></category></entry></feed>
